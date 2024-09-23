@@ -1,1 +1,5 @@
-Q1: What is Java?\nA1: Java is a high-level programming language.
+Q1: What is Java?\nA1: Java is a high-level programming language. echo Q2: What are the main features of Java?\nA2: Object-Oriented
+- Platform-Independent
+- Strongly Typed
+- Automatic Memory Management
+- Rich API.
