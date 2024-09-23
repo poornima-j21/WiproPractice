@@ -1,0 +1,2 @@
+Q1: What is Java? A: Java is a programming language.
+Q2: What are Java's main features? A: Platform independence, object-oriented, etc.
