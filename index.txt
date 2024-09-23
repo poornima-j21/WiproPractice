@@ -1,2 +1,1 @@
-Q3: What is an object in Java? A: An object is an instance of a class that represents a specific entity with state (attributes) and behavior (methods). For example, if Dog is a class, then myDog can be an object of that class.
-Q4: What is a class in Java? A: A class in Java is a blueprint for creating objects. It defines properties (fields) and behaviors (methods) that the created objects will have.
+Q5: What is inheritance in Java?\nA5: Inheritance is a mechanism that allows one class to inherit fields and methods from another class.
