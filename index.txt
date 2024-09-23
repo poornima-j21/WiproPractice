@@ -1,5 +1,19 @@
-Q1: What is Java?\nA1: Java is a high-level programming language. echo Q2: What are the main features of Java?\nA2: Object-Oriented
+1. What is Java?
+Answer: Java is a high-level, object-oriented programming language developed by Sun Microsystems.
+
+2. What are the main features of Java?
+Answer:
+- Object-Oriented
 - Platform-Independent
 - Strongly Typed
 - Automatic Memory Management
-- Rich API.
+- Rich API
+
+3. What is a class in Java?
+Answer: A class in Java is a blueprint for creating objects.
+
+4. What is an object in Java?
+Answer:An object is an instance of a class that represents a specific entity.
+
+5. What is inheritance in Java?
+Answer:Inheritance is a mechanism that allows one class to inherit fields and methods from another class.
