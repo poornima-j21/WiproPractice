@@ -1,1 +1,1 @@
-Q5: What is inheritance in Java?\nA5: Inheritance is a mechanism that allows one class to inherit fields and methods from another class.
+Q1: What is Java?\nA1: Java is a high-level programming language.
